@@ -112,5 +112,3 @@ class ElementaryParticle:
         else:
             raise ValueError("You need to pass a valid particle!")
             
-
-
